@@ -2,7 +2,7 @@
 
 - **L00 Cribas modulares**
 - **L01 Generadores de primos por simetría**
-
+- **L03 Analisis de Gaps**
 
 **L00 Cribas Modulares**
   La criba de Eratóstenes es la más famosa, pero no es la única forma de “tamizar” números. Existen cribas modulares o cribas complementarias, que consisten en aplicar filtros basados en congruencias para descartar números según patrones aritméticos específicos.
@@ -76,4 +76,5 @@ Es posible definir un algoritmo que genere primos a partir de:
             {'q': 13, 'p': 3, 'p1': 2, 'a': 3, 'p2': 2, 'b': 3, 'E': 8.0, 'S': 16}
             {'q': 29, 'p': 2, 'p1': 2, 'a': 2, 'p2': 3, 'b': 3, 'E': 15.5, 'S': 31}
             {'q': 17, 'p': 13, 'p1': 2, 'a': 0, 'p2': 29, 'b': 1, 'E': 15.0, 'S': 30}
+
 
